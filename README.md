@@ -2,6 +2,8 @@
 
 Este é um simples servidor de API para gerenciamento de tarefas. Ele permite que você realize operações básicas, como criar, recuperar, atualizar e excluir tarefas. O servidor foi desenvolvido usando o framework Express.js. A princípio, a ideia deste projeto é alimentar um módulo da Polybar, onde seria exibido para o usuário o número de tarefas pendentes, semelhante ao Microsoft To Do no Windows.
 
+![Banner](https://raw.githubusercontent.com/pigor12/gerenciadordetarefas/main/bar.png)
+
 ## Pré-requisitos
 
 Certifique-se de ter o Node.js e o npm (Node Package Manager) instalados em sua máquina antes de prosseguir.
